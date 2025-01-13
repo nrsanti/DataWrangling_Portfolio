@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "column_name": "Year",
+            "data_type": "Integer",
+            "description": "The year for which data is recorded (2001\u20132020)."
+        },
+        {
+            "column_name": "Primary Enrollment",
+            "data_type": "Float",
+            "description": "The total number of pupils enrolled in primary education in thousands."
+        },
+        {
+            "column_name": "GDP per Capita",
+            "data_type": "Float",
+            "description": "The GDP per capita in constant 2015 US dollars."
+        }
+    ]
+}
